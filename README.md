@@ -15,7 +15,7 @@ I’m building my path one repo at a time, while learning Python, SQL, Power BI,
  💼 A bit about what I do
 
 - Working in *remote customer service*, solving real-world problems daily
-- Studying full-time in *CIC* (BIS program – GPA: 3.5)
+- Studying full-time in *CIC* (BIS program)
 - Taking online certifications in *Data Science, **AI, and **Tech Empowerment*
 - Volunteering with global communities like *Dubai Youth Summit*
 
